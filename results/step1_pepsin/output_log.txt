@@ -1,0 +1,15 @@
+============================================================
+STEP 1: Fetching IsPETase sequence from UniProt
+============================================================
+  Already downloaded, skipping: C:\Users\mamat\Desktop\microplastic-research\data\A0A0K8P6T7_IsPETase_wildtype.fasta
+
+  Protein ID     : sp|A0A0K8P6T7|PETH_PISS1
+  Sequence length: 290 amino acids
+  First 60 aa    : MNFPRASRLMQAAVLGGLMAVSAAATAQTNPYARGPNPTAASLEASAGPFTVRSFTVSRP
+
+============================================================
+STEP 2: Scanning for pepsin cleavage sites
+============================================================
+
+  Rule   : pepsin ph1.3
+  Pattern: ((?<=[^HKR][^P])[^R](?=[FL][^P]))|((?<=[^HKR][^P])[FL](?=\w[^P]))

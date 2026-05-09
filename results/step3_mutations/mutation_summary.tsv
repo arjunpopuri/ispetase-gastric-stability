@@ -1,0 +1,9 @@
+position	WT_residue	engineered_residue	category	rationale
+51	T	C	disulfide	Forms S-S bond with T72C, Cb-Cb = 4.50 A
+72	T	C	disulfide	Partner of T51C disulfide bond
+59	R	E	charge-reversal	Highest surface exposure rel_ASA=0.68, 26.0 A from triad
+117	L	I	pepsin	Only surface-exposed high-risk pepsin cleavage site
+132	R	E	charge-reversal	Surface Arg, rel_ASA=0.40, 22.3 A from triad
+224	R	E	charge-reversal	Surface Arg, rel_ASA=0.54, 22.7 A from triad
+280	R	E	charge-reversal	Surface Arg in subsite IIc, rel_ASA=0.48, 15.0 A from triad
+285	R	E	charge-reversal	Surface Arg, rel_ASA=0.40, 15.0 A from triad

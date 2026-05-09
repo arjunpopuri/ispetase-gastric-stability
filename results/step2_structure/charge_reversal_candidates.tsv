@@ -1,0 +1,8 @@
+resseq	resname	one_letter	ASA	relative_ASA	min_dist_to_catalytic	is_surface	near_active_site	proposed_mutation	delta_charge
+53	ARG	R	78.95	0.2881	27.07	True	False	R53E	-2
+59	ARG	R	185.97	0.6787	26.01	True	False	R59E	-2
+90	ARG	R	69.28	0.2529	12.14	True	False	R90E	-2
+95	LYS	K	93.55	0.3964	14.71	True	False	K95E	-2
+132	ARG	R	109.0	0.3978	22.29	True	False	R132E	-2
+224	ARG	R	146.79	0.5357	22.69	True	False	R224E	-2
+280	ARG	R	130.28	0.4755	15.01	True	False	R280E	-2
