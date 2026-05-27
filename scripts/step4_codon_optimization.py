@@ -1,7 +1,7 @@
 """
 Step 4 - Codon optimization for E. coli expression
 Project: Microplastic Degradation Research Project
-Author:  Mamatha Gadipudi
+Author:  Arjun Popuri
 Date:    April 2026
 """
 import os

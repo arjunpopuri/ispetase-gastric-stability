@@ -1,7 +1,7 @@
 """
 Step 3 - Design the 8-mutation engineered IsPETase variant
 Project: Microplastic Degradation Research Project
-Author:  Mamatha Gadipudi
+Author:  Arjun Popuri
 Date:    April 2026
 
 Mutations applied:

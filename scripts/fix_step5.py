@@ -3,7 +3,7 @@ with open("scripts/step5_cloning_constructs.py", "w", encoding="utf-8") as f:
 """
 Step 5 - Assemble NdeI/His6/XhoI cloning constructs
 Project: Microplastic Degradation Research Project
-Author:  Mamatha Gadipudi
+Author:  Arjun Popuri
 Date:    April 2026
 
 Assembles the full expression insert for both engineered and wild-type:

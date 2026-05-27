@@ -1,7 +1,7 @@
 """
 Step 1 - Fetch IsPETase sequence and predict pepsin cleavage sites
 Project: Microplastic Degradation Research Project
-Author:  Mamatha Gadipudi
+Author:  Arjun Popuri
 Date:    April 2026
 """
 import os, re, urllib.request

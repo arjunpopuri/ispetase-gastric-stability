@@ -1,7 +1,7 @@
 """
 Step 2 - Download PDB 5XJH and compute surface exposure (SASA)
 Project: Microplastic Degradation Research Project
-Author:  Mamatha Gadipudi
+Author:  Arjun Popuri
 Date:    April 2026
 """
 import os, urllib.request, warnings

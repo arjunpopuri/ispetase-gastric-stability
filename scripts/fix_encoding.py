@@ -3,7 +3,7 @@ with open("scripts/step4_codon_optimization.py", "w", encoding="utf-8") as f:
 """
 Step 4 - Codon optimization for E. coli expression
 Project: Microplastic Degradation Research Project
-Author:  Mamatha Gadipudi
+Author:  Arjun Popuri
 Date:    April 2026
 """
 import os
